@@ -43,7 +43,7 @@ const HomeSlider = () => {
   const images = [
     "/images/ceda.png", 
     "/images/sinos.png",
-    "images/input_sinogram.png"
+    "/images/input_sinogram.png"
   ];
 
   const [activeIndex, setActiveIndex] = useState(0);

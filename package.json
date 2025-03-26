@@ -1,9 +1,9 @@
 {
   "name": "fit-senior-project",
+  "homepage": "https://aburrell1.github.io/fit_senior_project/",
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://aburrell1.github.io/fit_senior_project/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
