@@ -454,6 +454,6 @@ export default theme;`}function Jf(a={},...l){const{breakpoints:u,mixins:o={},sp
   font-weight: bold;
   letter-spacing: 2px;
   text-shadow: 0 4px 6px rgba(0, 0, 0, 0.7);
-`;const xx=()=>{const a=["/images/ceda.png","/images/sinos.png","images/input_sinogram.png"],[l,u]=tt.useState(0);return tt.useEffect(()=>{const o=setInterval(()=>{u(s=>(s+1)%a.length)},3e3);return()=>clearInterval(o)},[a.length]),D.jsxs(Ex,{children:[a.map((o,s)=>D.jsx(Tx,{image:o,active:s===l},s)),D.jsx(Sx,{})]})},_x=Tt.div`
+`;const xx=()=>{const a=["/images/ceda.png","/images/sinos.png","/images/input_sinogram.png"],[l,u]=tt.useState(0);return tt.useEffect(()=>{const o=setInterval(()=>{u(s=>(s+1)%a.length)},3e3);return()=>clearInterval(o)},[a.length]),D.jsxs(Ex,{children:[a.map((o,s)=>D.jsx(Tx,{image:o,active:s===l},s)),D.jsx(Sx,{})]})},_x=Tt.div`
   width: 100%;
 `;function Ox(){return D.jsx(D.Fragment,{children:D.jsx("div",{id:"home",children:D.jsxs(_x,{children:[D.jsx(VS,{}),D.jsx(xx,{}),D.jsx(vx,{}),D.jsx(ix,{})]})})})}wb.createRoot(document.getElementById("root")).render(D.jsx(tt.StrictMode,{children:D.jsx(Ox,{})}));
