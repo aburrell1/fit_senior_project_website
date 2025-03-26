@@ -207,6 +207,7 @@ const MainSection = () => {
                 </AccordionSummary>
                 <AccordionDetails>
                 <ButtonListContainer>
+                    <StyledButton href="/fit_senior_project_website/documents/poster.pdf">Progress Evaluation</StyledButton>
                     <StyledButton href="/fit_senior_project_website/documents/milestone5.pdf">Presentation</StyledButton>
                     <StyledButton href="/fit_senior_project_website/documents/eval5.pdf">Progress Evaluation</StyledButton>
                 </ButtonListContainer>
