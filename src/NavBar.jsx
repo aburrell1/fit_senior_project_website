@@ -87,7 +87,7 @@ const NavBar = () => {
             <Link to="home" smooth={true} duration={500}>
             <LogoWrapper>
                 {/* BiCLab   */}
-                <img src="/images/BiCLogo.png" alt="BiCLab" width="50px" />
+                <img src="/fit_senior_project_website/images/BiCLogo.png" alt="BiCLab" width="50px" />
             </LogoWrapper>
             </Link>
           </HomeLink>

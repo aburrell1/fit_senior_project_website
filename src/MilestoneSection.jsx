@@ -110,8 +110,8 @@ const MainSection = () => {
                 </AccordionSummary>
                 <AccordionDetails>
                 <ButtonListContainer>
-                    <StyledButton href="/documents/plan1.pdf">Plan</StyledButton>
-                    <StyledButton href="/documents/plan1Pres.pdf">Presentation</StyledButton>
+                    <StyledButton href="/fit_senior_project_website/documents/plan1.pdf">Plan</StyledButton>
+                    <StyledButton href="/fit_senior_project_website/documents/plan1Pres.pdf">Presentation</StyledButton>
                 </ButtonListContainer>
                 </AccordionDetails>
             </StyledAccordion>
@@ -123,9 +123,9 @@ const MainSection = () => {
                 </AccordionSummary>
                 <AccordionDetails>
                 <ButtonListContainer>
-                    <StyledButton href="/documents/requirement.pdf">Requirements</StyledButton>
-                    <StyledButton href="/documents/design.pdf">Design</StyledButton>
-                    <StyledButton href="/documents/test.pdf">Test</StyledButton>
+                    <StyledButton href="/fit_senior_project_website/documents/requirement.pdf">Requirements</StyledButton>
+                    <StyledButton href="/fit_senior_project_website/documents/design.pdf">Design</StyledButton>
+                    <StyledButton href="/fit_senior_project_website/documents/test.pdf">Test</StyledButton>
                 </ButtonListContainer>
                 </AccordionDetails>
             </StyledAccordion>
@@ -137,8 +137,8 @@ const MainSection = () => {
                 </AccordionSummary>
                 <AccordionDetails>
                 <ButtonListContainer>
-                    <StyledButton href="/documents/milestone1.pdf">Presentation</StyledButton>
-                    <StyledButton href="/documents/eval1.pdf">Progress Evaluation</StyledButton>
+                    <StyledButton href="/fit_senior_project_website/documents/milestone1.pdf">Presentation</StyledButton>
+                    <StyledButton href="/fit_senior_project_website/documents/eval1.pdf">Progress Evaluation</StyledButton>
                 </ButtonListContainer>
                 </AccordionDetails>
             </StyledAccordion>
@@ -151,8 +151,8 @@ const MainSection = () => {
                 </AccordionSummary>
                 <AccordionDetails>
                 <ButtonListContainer>
-                    <StyledButton href="/documents/milestone2.pdf">Presentation</StyledButton>
-                    <StyledButton href="/documents/eval2.pdf">Progress Evaluation</StyledButton>
+                    <StyledButton href="/fit_senior_project_website/documents/milestone2.pdf">Presentation</StyledButton>
+                    <StyledButton href="/fit_senior_project_website/documents/eval2.pdf">Progress Evaluation</StyledButton>
                 </ButtonListContainer>
                 </AccordionDetails>
             </StyledAccordion>
@@ -164,8 +164,8 @@ const MainSection = () => {
                 </AccordionSummary>
                 <AccordionDetails>
                 <ButtonListContainer>
-                    <StyledButton href="/documents/milestone3.pdf">Presentation</StyledButton>
-                    <StyledButton href="/documents/eval3.pdf">Progress Evaluation</StyledButton>
+                    <StyledButton href="/fit_senior_project_website/documents/milestone3.pdf">Presentation</StyledButton>
+                    <StyledButton href="/fit_senior_project_website/documents/eval3.pdf">Progress Evaluation</StyledButton>
                 </ButtonListContainer>
                 </AccordionDetails>
             </StyledAccordion>
@@ -180,8 +180,8 @@ const MainSection = () => {
                 </AccordionSummary>
                 <AccordionDetails>
                 <ButtonListContainer>
-                    <StyledButton href="/documents/plan2.pdf">Plan</StyledButton>
-                    <StyledButton href="/documents/plan2Pres.pdf">Presentation</StyledButton>
+                    <StyledButton href="/fit_senior_project_website/documents/plan2.pdf">Plan</StyledButton>
+                    <StyledButton href="/fit_senior_project_website/documents/plan2Pres.pdf">Presentation</StyledButton>
                 </ButtonListContainer>
                 </AccordionDetails>
             </StyledAccordion>
@@ -193,8 +193,8 @@ const MainSection = () => {
                 </AccordionSummary>
                 <AccordionDetails>
                 <ButtonListContainer>
-                    <StyledButton href="/documents/milestone4.pdf">Presentation</StyledButton>
-                    <StyledButton href="/documents/eval4.pdf">Progress Evaluation</StyledButton>
+                    <StyledButton href="/fit_senior_project_website/documents/milestone4.pdf">Presentation</StyledButton>
+                    <StyledButton href="/fit_senior_project_website/documents/eval4.pdf">Progress Evaluation</StyledButton>
                 </ButtonListContainer>
                 </AccordionDetails>
             </StyledAccordion>
@@ -207,8 +207,8 @@ const MainSection = () => {
                 </AccordionSummary>
                 <AccordionDetails>
                 <ButtonListContainer>
-                    <StyledButton href="/documents/milestone5.pdf">Presentation</StyledButton>
-                    <StyledButton href="/documents/eval5.pdf">Progress Evaluation</StyledButton>
+                    <StyledButton href="/fit_senior_project_website/documents/milestone5.pdf">Presentation</StyledButton>
+                    <StyledButton href="/fit_senior_project_website/documents/eval5.pdf">Progress Evaluation</StyledButton>
                 </ButtonListContainer>
                 </AccordionDetails>
             </StyledAccordion>
@@ -221,10 +221,10 @@ const MainSection = () => {
                 <AccordionDetails>
                 <ButtonListContainer>
                 {/* User and/or Developer Manual, Demo Video, Presentation, Progress Evaluation */}
-                    <StyledButton href="/documents/userManual.pdf">Developer Manual</StyledButton>
+                    <StyledButton href="/fit_senior_project_website/documents/userManual.pdf">Developer Manual</StyledButton>
                     <StyledButton href="#link4">Demo Video</StyledButton>
-                    <StyledButton href="/documents/milestone6.pdf">Presentation</StyledButton>
-                    <StyledButton href="/documents/eval6.pdf">Progress Evaluation</StyledButton>
+                    <StyledButton href="/fit_senior_project_website/documents/milestone6.pdf">Presentation</StyledButton>
+                    <StyledButton href="/fit_senior_project_website/documents/eval6.pdf">Progress Evaluation</StyledButton>
 
                 </ButtonListContainer>
                 </AccordionDetails>

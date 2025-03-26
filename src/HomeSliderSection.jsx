@@ -41,9 +41,9 @@ const OverlayText = styled.div`
 // React Component
 const HomeSlider = () => {
   const images = [
-    "/images/ceda.png", 
-    "/images/sinos.png",
-    "/images/input_sinogram.png"
+    "/fit_senior_project_website/images/ceda.png", 
+    "/fit_senior_project_website/images/sinos.png",
+    "/fit_senior_project_website/images/input_sinogram.png"
   ];
 
   const [activeIndex, setActiveIndex] = useState(0);
