@@ -41,6 +41,13 @@ const PostcardTitle = styled.h3`
   color: #222;
 `;
 
+const PostcardEmail = styled.h3`
+  font-size: 20px;
+  font-style: italic;
+  margin-bottom: 10px;
+  color: #222;
+`;
+
 const PostcardDescription = styled.p`
   font-size: 16px;
   line-height: 1.4;
@@ -68,12 +75,13 @@ const IconLink = styled.a`
   }
 `;
 
-const PostcardBox = ({ image_link, name, desc, linkedin, github }) => {
+const PostcardBox = ({ image_link, name, email, desc, linkedin, github }) => {
   return (
     <Postcard>
       <Image src={image_link} alt="Headshot" />
       <PostcardContent>
         <PostcardTitle>{name}</PostcardTitle>
+        <PostcardEmail>{email}</PostcardEmail>
         <PostcardDescription>
           {desc}
         </PostcardDescription>

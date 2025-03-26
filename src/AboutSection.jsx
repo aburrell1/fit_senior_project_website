@@ -115,6 +115,7 @@ const AboutSection = () => {
         <PostcardBox
             image_link="asher"
             name="Group Member: Asher Burrell"
+            email="aburrell2022@my.fit.edu"
             desc="Welcome to our team introduction! Below, you'll find a few postcards
                 highlighting the amazing individuals who bring unique skills and
                 perspectives to our work."
@@ -125,6 +126,7 @@ const AboutSection = () => {
         <PostcardBox
             image_link="chris"
             name="Group Member: Chris Hinton"
+            email="chinton2022@my.fit.edu"
             desc="Welcome to our team introduction! Below, you'll find a few postcards
                 highlighting the amazing individuals who bring unique skills and
                 perspectives to our work."
@@ -135,6 +137,7 @@ const AboutSection = () => {
         <PostcardBox
             image_link="ty"
             name="Group Member: Thomas Mercer"
+            email="tmercer2022@my.fit.edu"
             desc="Welcome to our team introduction! Below, you'll find a few postcards
                 highlighting the amazing individuals who bring unique skills and
                 perspectives to our work."
@@ -147,8 +150,9 @@ const AboutSection = () => {
       <FlexTwoComponent>
         <PostcardBox
                 image_link="Mitra"
-                name="Debasis Mitra"
-                desc="Debasis Mitra is a Computer Science Professor at Florida Institute of Technology 
+                name="Dr. Debasis Mitra"
+                email="dmitra@fit.edu"
+                desc="Dr. Debasis Mitra is a Computer Science Professor at Florida Institute of Technology 
                     and the Director of the Biocomputing Lab.
                     A central theme of Mitra's present research is to 
                     squeeze knowledge nuggets from noisy spatio-temporal data, especially 

@@ -106,7 +106,7 @@ const MainSection = () => {
         <MilestoneWrapper>
             <StyledAccordion>
                 <AccordionSummary expandIcon={<ExpandMoreIcon />}>
-                <Header>PLAN</Header>
+                <Header>PLAN (Sep 4)</Header>
                 </AccordionSummary>
                 <AccordionDetails>
                 <ButtonListContainer>
@@ -119,7 +119,7 @@ const MainSection = () => {
 
             <StyledAccordion>
                 <AccordionSummary expandIcon={<ExpandMoreIcon />}>
-                    <Header>SYSTEM DESIGN</Header>
+                    <Header>SYSTEM DESIGN (Sep 30)</Header>
                 </AccordionSummary>
                 <AccordionDetails>
                 <ButtonListContainer>
@@ -133,7 +133,7 @@ const MainSection = () => {
                 
             <StyledAccordion>
                 <AccordionSummary expandIcon={<ExpandMoreIcon />}>
-                    <Header>MILESTONE 1</Header>
+                    <Header>MILESTONE 1 (Sep 30)</Header>
                 </AccordionSummary>
                 <AccordionDetails>
                 <ButtonListContainer>
@@ -147,7 +147,7 @@ const MainSection = () => {
             {/* Second Container */}
             <StyledAccordion>
                 <AccordionSummary expandIcon={<ExpandMoreIcon />}>
-                    <Header>MILESTONE 2</Header>
+                    <Header>MILESTONE 2 (Oct 28)</Header>
                 </AccordionSummary>
                 <AccordionDetails>
                 <ButtonListContainer>
@@ -160,7 +160,7 @@ const MainSection = () => {
 
             <StyledAccordion>
                 <AccordionSummary expandIcon={<ExpandMoreIcon />}>
-                    <Header>MILESTONE 3</Header>
+                    <Header>MILESTONE 3 (Nov 25)</Header>
                 </AccordionSummary>
                 <AccordionDetails>
                 <ButtonListContainer>
@@ -176,7 +176,7 @@ const MainSection = () => {
         <MilestoneWrapper>
             <StyledAccordion>
                 <AccordionSummary expandIcon={<ExpandMoreIcon />}>
-                <Header>PLAN</Header>
+                <Header>PLAN (Jan 27)</Header>
                 </AccordionSummary>
                 <AccordionDetails>
                 <ButtonListContainer>
@@ -189,7 +189,7 @@ const MainSection = () => {
 
             <StyledAccordion>
                 <AccordionSummary expandIcon={<ExpandMoreIcon />}>
-                    <Header>MILESTONE 4</Header>
+                    <Header>MILESTONE 4 (Feb 24)</Header>
                 </AccordionSummary>
                 <AccordionDetails>
                 <ButtonListContainer>
@@ -203,11 +203,11 @@ const MainSection = () => {
             {/* Second Container */}
             <StyledAccordion>
                 <AccordionSummary expandIcon={<ExpandMoreIcon />}>
-                    <Header>MILESTONE 5</Header>
+                    <Header>MILESTONE 5 (Mar 26)</Header>
                 </AccordionSummary>
                 <AccordionDetails>
                 <ButtonListContainer>
-                    <StyledButton href="/fit_senior_project_website/documents/poster.pdf">Progress Evaluation</StyledButton>
+                    <StyledButton href="/fit_senior_project_website/documents/poster.pdf">Poster</StyledButton>
                     <StyledButton href="/fit_senior_project_website/documents/milestone5.pdf">Presentation</StyledButton>
                     <StyledButton href="/fit_senior_project_website/documents/eval5.pdf">Progress Evaluation</StyledButton>
                 </ButtonListContainer>
@@ -217,7 +217,7 @@ const MainSection = () => {
 
             <StyledAccordion>
                 <AccordionSummary expandIcon={<ExpandMoreIcon />}>
-                    <Header>MILESTONE 6</Header>
+                    <Header>MILESTONE 6 (Apr 21)</Header>
                 </AccordionSummary>
                 <AccordionDetails>
                 <ButtonListContainer>
