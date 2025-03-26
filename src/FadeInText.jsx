@@ -95,7 +95,7 @@ const FadeInText = () => {
   return (
     <>
     <TextContainer ref={textRef}>
-        TOMOGRAPHIC MEDICAL IMAGING WITH DEEP LEARNING
+        TOMOGRAPHIC MEDICAL IMAGE RECONSTRUCTION WITH DEEP LEARNING
     </TextContainer>
     </>
   );
