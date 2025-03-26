@@ -102,3 +102,4 @@ const FadeInText = () => {
 };
 
 export default FadeInText;
+
