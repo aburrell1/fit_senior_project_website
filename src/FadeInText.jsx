@@ -27,6 +27,33 @@ const TextContainer = styled.div`
   }
 `;
 
+const SubtextContainer = styled.div`
+  opacity: 0; 
+  transform: translateY(0px); 
+  transition: opacity 0.8s ease-out, transform 0.8s ease-out; 
+
+  &.visible {
+    margin: 50px;
+    position: absolute;
+    top: 60%;
+    left: 5%;
+    transform: translate(0%, -50%); 
+    text-align: center;
+    color: rgb(173, 0, 0); 
+    font-family: 'Urbanist', sans-serif; 
+    font-size: 2rem; 
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-shadow: 0 4px 6px rgba(0, 0, 0, 0.7); 
+    opacity: 1; /* Fully visible */
+    text-shadow: -1px -1px 0 black, 
+
+               1px -1px 0 black, 
+               -1px 1px 0 black, 
+               1px 1px 0 black;
+  }
+`;
+
 const Title = styled.h1`
   font-size: 40px;
   color:rgb(173, 0, 0);
@@ -65,9 +92,13 @@ const FadeInText = () => {
     };
   }, []);
 
-  return <TextContainer ref={textRef}>
+  return (
+    <>
+    <TextContainer ref={textRef}>
         TOMOGRAPHIC MEDICAL IMAGING WITH DEEP LEARNING
-    </TextContainer>;
+    </TextContainer>
+    </>
+  );
 };
 
 export default FadeInText;

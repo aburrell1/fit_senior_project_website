@@ -101,7 +101,7 @@ const MainSection = () => {
             as presentations and milestone evaluations.
         </article>
 
-        <TitleContainer><YearHeading>Year 1</YearHeading></TitleContainer>
+        <TitleContainer><YearHeading>Semester 1</YearHeading></TitleContainer>
         
         <MilestoneWrapper>
             <StyledAccordion>
@@ -171,7 +171,7 @@ const MainSection = () => {
             </StyledAccordion>
         </MilestoneWrapper>
 
-        <TitleContainer><YearHeading>Year 2</YearHeading></TitleContainer>
+        <TitleContainer><YearHeading>Semester 2</YearHeading></TitleContainer>
         
         <MilestoneWrapper>
             <StyledAccordion>

@@ -42,10 +42,10 @@ const PostcardTitle = styled.h3`
 `;
 
 const PostcardEmail = styled.h3`
-  font-size: 20px;
+  font-size: 15px;
   font-style: italic;
   margin-bottom: 10px;
-  color: #222;
+  color: black;
 `;
 
 const PostcardDescription = styled.p`
