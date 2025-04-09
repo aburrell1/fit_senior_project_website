@@ -116,9 +116,9 @@ const AboutSection = () => {
             image_link="asher"
             name="Group Member: Asher Burrell"
             email="aburrell2022@my.fit.edu"
-            desc="Welcome to our team introduction! Below, you'll find a few postcards
-                highlighting the amazing individuals who bring unique skills and
-                perspectives to our work."
+            desc="Asher Burrell was mainly in charge of improving the machine learning model that reconstructs heart images from SPECT data. 
+              He has incorporated various new loss functions, expanded the model architecture, and introduced distributed training on Florida Tech's internal cloud service
+              utilizing multiple GPUs. Through his efforts, the model has achieved a 60% increase in reconstruction accuracy."
             linkedin="https://www.linkedin.com/in/asher-burrell/"
             github="https://github.com/aburrell1"
         />
