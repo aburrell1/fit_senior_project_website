@@ -7,7 +7,7 @@ import PostcardBox from "./Postcard";
 // Styled Components for Big Section
 const BigContainer = styled.section`
   width: 100%;
-  padding-top: 40px;
+  padding-top: 80px;
   background: linear-gradient(to right,rgb(255, 252, 227),rgb(224, 224, 224));
 //   background-color: #f4f4f9; 
   display: flex;
@@ -42,49 +42,6 @@ const FlexTwoComponent = styled.div`
   align-items: center;
   gap: 20px;
   padding-bottom: 40px;
-`;
-
-const Postcard = styled.div`
-  background-color: #fff; 
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
-  border-radius: 15px;
-  overflow: hidden;
-  width: 30%; 
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 20px;
-  transition: transform 0.3s, box-shadow 0.3s;
-
-  &:hover {
-    transform: translateY(-5px); 
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); 
-  }
-`;
-
-const Image = styled.img`
-  width: 100%;
-  height: auto;
-  border-radius: 50%; 
-  margin-bottom: 15px;
-`;
-
-const PostcardContent = styled.div`
-  text-align: center;
-  color: #555;
-`;
-
-const PostcardTitle = styled.h3`
-  font-size: 20px;
-  font-weight: bold;
-  margin-bottom: 10px;
-  color: #222;
-`;
-
-const PostcardDescription = styled.p`
-  font-size: 16px;
-  line-height: 1.4;
-  color: #666;
 `;
 
 const AboutSection = () => {

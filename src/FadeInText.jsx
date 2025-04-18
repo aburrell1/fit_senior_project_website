@@ -9,7 +9,7 @@ const TextContainer = styled.div`
   &.visible {
     position: absolute;
     top: 50%;
-    left: 5%;
+    left: 0%;
     transform: translate(0%, -50%); 
     text-align: center;
     color: rgb(173, 0, 0); 

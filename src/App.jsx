@@ -5,6 +5,7 @@ import AboutSection from './AboutSection'
 import HomeSliderSection from './HomeSliderSection'
 import styled from 'styled-components'
 import ContactSection from './ContactSection'
+import VideoDemoSection from './VideoDemoSection'
 
 const AppWrapper = styled.div`
   width: 100%;
@@ -19,6 +20,7 @@ function App() {
           <NavBar />
           <HomeSliderSection />
           <AboutSection />
+          <VideoDemoSection />
           <MilestoneSection />
           <ContactSection />
         </AppWrapper>

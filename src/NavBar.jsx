@@ -108,6 +108,13 @@ const NavBar = () => {
           </NavLink>
         </li>
         <li>
+          <NavLink href="#video-demo">
+            <Link to="video-demo" smooth={true} duration={500}>
+                Demo
+            </Link>
+          </NavLink>
+        </li>
+        <li>
           <NavLink href="#documentation">
             <Link to="documentation" smooth={true} duration={500}>
                 DOCUMENTATION

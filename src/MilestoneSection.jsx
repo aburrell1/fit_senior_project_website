@@ -5,13 +5,14 @@ import AccordionSummary from "@mui/material/AccordionSummary";
 import AccordionDetails from "@mui/material/AccordionDetails";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import BarComponent from "./BarComponent";
-
+import { Link } from 'react-scroll';
 
 // Styled Components for Main Article
 const MainArticle = styled.section`
   width: 100%;
   background-color: #f8f8f8;
   padding: 20px 0;
+  padding-top: 80px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -223,7 +224,9 @@ const MainSection = () => {
                 <ButtonListContainer>
                 {/* User and/or Developer Manual, Demo Video, Presentation, Progress Evaluation */}
                     <StyledButton href="/fit_senior_project_website/documents/userManual.pdf">Developer Manual</StyledButton>
-                    <StyledButton href="#link4">Demo Video</StyledButton>
+                    <StyledButton href="#link4">
+                        <Link to="video-demo" smooth={true} duration={500}>Demo Video</Link>
+                    </StyledButton>
                     <StyledButton href="/fit_senior_project_website/documents/milestone6.pdf">Presentation</StyledButton>
                     <StyledButton href="/fit_senior_project_website/documents/eval6.pdf">Progress Evaluation</StyledButton>
 
