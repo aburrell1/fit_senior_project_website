@@ -225,7 +225,7 @@ const MainSection = () => {
                 {/* User and/or Developer Manual, Demo Video, Presentation, Progress Evaluation */}
                     <StyledButton href="/fit_senior_project_website/documents/userManual.pdf">Developer Manual</StyledButton>
                     <StyledButton href="#link4">
-                        <a href="https://youtu.be/GXW_kl_HW6A" target="_blank" rel="noopener noreferrer">Demo Video</a>
+                        <a href="https://www.youtube.com/watch?v=GXW_kl_HW6A" target="_blank" rel="noopener noreferrer">Demo Video</a>
                     </StyledButton>
                     <StyledButton href="/fit_senior_project_website/documents/milestone6.pdf">Presentation</StyledButton>
                     <StyledButton href="/fit_senior_project_website/documents/eval6.pdf">Progress Evaluation</StyledButton>
