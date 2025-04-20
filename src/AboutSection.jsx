@@ -53,7 +53,7 @@ const AboutSection = () => {
       <Title>Project Purpose</Title>
       <article>
         Right now, medical imaging
-        with iterative statistical algorithms takes about 30 seconds. Our project aims to use 
+        with iterative statistical algorithms takes about 5 minutes. Our project aims to use 
         deep learning inferencing
         to reduce this time to milliseconds, allowing massive amounts of data to be
         generated in a small amount of time. Additionally, our project includes synthetic data generation,
