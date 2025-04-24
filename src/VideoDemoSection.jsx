@@ -37,7 +37,7 @@ const VideoDemoSection = () => {
         <BigContainer id="video-demo">
         <h1>VIDEO DEMO</h1>
         {/* Add the VideoComponent below */}
-        <VideoComponent videoLink="https://youtu.be/2JvDLG6XU28" />
+        <VideoComponent videoLink="https://youtu.be/EZdQSUOTQgI" />
         </BigContainer>
     </div>
   );
