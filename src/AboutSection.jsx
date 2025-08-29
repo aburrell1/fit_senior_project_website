@@ -84,9 +84,7 @@ const AboutSection = () => {
             image_link="chris"
             name="Group Member: Chris Hinton"
             email="chinton2022@my.fit.edu"
-            desc="Welcome to our team introduction! Below, you'll find a few postcards
-                highlighting the amazing individuals who bring unique skills and
-                perspectives to our work."
+            desc="Chris Hinton is a computer science senior at Florida Tech. He mainly worked on the data preprocessing pipeline along with Ty Mercer."
             linkedin=""
             github="https://github.com/ChrisH571"
         />
