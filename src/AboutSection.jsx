@@ -87,7 +87,7 @@ const AboutSection = () => {
             desc="Welcome to our team introduction! Below, you'll find a few postcards
                 highlighting the amazing individuals who bring unique skills and
                 perspectives to our work."
-            linkedin="https://www.linkedin.com/in/asher-burrell/"
+            linkedin=""
             github="https://github.com/ChrisH571"
         />
 
@@ -95,9 +95,10 @@ const AboutSection = () => {
             image_link="ty"
             name="Group Member: Thomas Mercer"
             email="tmercer2022@my.fit.edu"
-            desc="Welcome to our team introduction! Below, you'll find a few postcards
-                highlighting the amazing individuals who bring unique skills and
-                perspectives to our work."
+            desc="Thomas (Ty) Mercer is a senior at the Florida Institute of Technology student pursuing a B.S. in Computer Science, 
+              skilled in writing clean and efficient code in Java and Python. He also possesses industry experience with the Spring Boot framework and Azure DevOps through working at Daifuku. 
+              Additionally, he has worked as a research intern in Python machine learning. He participates in competitive programming
+              and was among the top ten at ICPC regionals in Spring 2024."
             linkedin="https://www.linkedin.com/in/thomas-mercer-752b54275/"
             github="https://github.com/rednova25"
         />
