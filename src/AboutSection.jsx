@@ -97,7 +97,7 @@ const AboutSection = () => {
             email="tmercer2022@my.fit.edu"
             desc="Thomas (Ty) Mercer is a senior at the Florida Institute of Technology student pursuing a B.S. in Computer Science, 
               skilled in writing clean and efficient code in Java and Python. He also possesses industry experience with the Spring Boot framework and Azure DevOps through working at Daifuku. 
-              Additionally, he has worked as a research intern in Python machine learning. He participates in competitive programming
+              He participates in competitive programming
               and was among the top ten at ICPC regionals in Spring 2024."
             linkedin="https://www.linkedin.com/in/thomas-mercer-752b54275/"
             github="https://github.com/rednova25"
